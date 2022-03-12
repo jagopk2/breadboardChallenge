@@ -56,6 +56,6 @@ Click try it out and enter the first number and second number and click execute
 
 Now you can execute the tests by launching
 
-`npm test`
+`npm run test`
 
 ##
